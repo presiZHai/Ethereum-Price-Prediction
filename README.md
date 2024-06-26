@@ -1,2 +1,2 @@
-# Ethereum-Price-Prediction
-Predicting Ethereum Prices with LSTMs 
+# Predicting Ethereum Prices with LSTMs 
+
